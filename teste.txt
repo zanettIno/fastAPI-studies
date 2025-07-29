@@ -1,0 +1,1 @@
+dias totais: 20; dias tristes: 17; dias felizes: 3.
