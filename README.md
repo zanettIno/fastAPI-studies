@@ -85,4 +85,4 @@ uvicorn main:app --reload
 
 ---
 
-![screenshot](imageFolder/screenshot.png)
+![screenshot](fastAPI-studies-IMAGE.png)
