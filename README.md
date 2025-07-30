@@ -81,3 +81,8 @@ Para executar o servidor localmente em modo de desenvolvimento:
 
 ```bash
 uvicorn main:app --reload
+```
+
+---
+
+![screenshot](imageFolder/screenshot.png)
